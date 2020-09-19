@@ -1,4 +1,29 @@
-# Case Study
+# Fintech Case Study
+> First Homework assignment
+---
+## Table of contents
+
+[data](./data)
+[Github](https://github.com)
+
+![Screenshot](./image.png)
+
+## Overview
+*RegTech*
+
+### What is RegTech?
+
+---
+
+## Terminal Notes
+To make a directory from bash you use the `mkdir` command 
+
+## Python
+```python
+import numpy as np
+
+a = np.array()
+```
 
 Hi. I'm Steve. I have been working as a financial statment and regulatory form preparer for Citco for the past 3 years after graduating from the University of Minnesota Duluth with a Bachelor of Science in Mathematics and Computer Science.
 
