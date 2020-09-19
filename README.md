@@ -1,1 +1,1 @@
-# upenn-fintech-case-study
+# Case Study
