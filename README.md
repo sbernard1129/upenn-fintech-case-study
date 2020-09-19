@@ -1,6 +1,6 @@
 # Fintech Case Study
 
-![Screenshot](./image.png)
+![Screenshot](./image.jpg)
 
 ## Overview
 
